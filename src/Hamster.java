@@ -7,4 +7,5 @@ public class Hamster {
     private String test2;
     private String test3;
     //test
+    //test2
 }
