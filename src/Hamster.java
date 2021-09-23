@@ -3,6 +3,6 @@ public class Hamster {
     public int age;
     public int weight;
     public String color;
-
+    private String test;
 
 }
