@@ -4,5 +4,6 @@ public class Hamster {
     public int weight;
     public String color;
     private String test;
+    private String test2;
 
 }
